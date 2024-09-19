@@ -1742,6 +1742,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: floor
       objectReference: {fileID: 0}
+    - target: {fileID: 8541018845713047860, guid: 527ccf78bf9314523b595a2f7922d4b6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 91d9ac3c87f5c6c41a931fafeb022f5c, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2976,6 +2980,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 157340260}
     m_Modifications:
+    - target: {fileID: 1074561247613023516, guid: 100f90978843b44a8ba362a567e1806e, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 4d46592e476954941b60f4a2288edcd2, type: 2}
     - target: {fileID: 1701966989506912873, guid: 100f90978843b44a8ba362a567e1806e, type: 3}
       propertyPath: m_RootOrder
       value: -1
