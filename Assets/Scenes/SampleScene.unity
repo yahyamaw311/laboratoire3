@@ -1457,7 +1457,7 @@ GameObject:
   - component: {fileID: 157340262}
   - component: {fileID: 157340261}
   m_Layer: 0
-  m_Name: Door
+  m_Name: DoorExit
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2149,7 +2149,7 @@ BoxCollider:
   m_LayerOverridePriority: 0
   m_IsTrigger: 0
   m_ProvidesContacts: 0
-  m_Enabled: 0
+  m_Enabled: 1
   serializedVersion: 3
   m_Size: {x: 1, y: 1, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
@@ -8429,7 +8429,7 @@ Animator:
   m_GameObject: {fileID: 1449443566}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: 13c25dc44c06d7047b7af857bb5c555f, type: 2}
+  m_Controller: {fileID: 9100000, guid: 8b46557504d13cb47a6a763de36252c2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
