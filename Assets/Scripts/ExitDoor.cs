@@ -18,11 +18,6 @@ public class ExitDoor : MonoBehaviour
 
             // Exécutez l'action souhaitée, par exemple afficher un message
             Debug.Log("Le joueur est entré dans la zone de trigger!");
-
-            // Vous pouvez également appeler une méthode ou changer l'état du jeu
-            // Exemple : augmenter un score, terminer un niveau, etc.
-            // IncreaseScore();
-            // EndLevel();
         }
         }
 }

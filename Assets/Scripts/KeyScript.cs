@@ -9,7 +9,7 @@ public class KeyScript : MonoBehaviour
     private void OnCollisionEnter(Collision other) {
         
         if (other.collider.tag == "Player"){
-            GameObject.Find("Door").GetComponent<ExitDoor>().foundKeys++;
+            GameObject.Find("DoorExit").GetComponent<ExitDoor>().foundKeys++;
             Destroy(gameObject);
         }
     }
